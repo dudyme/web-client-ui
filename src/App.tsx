@@ -188,7 +188,7 @@ export default function App() {
             onClick={() => start()}
             disabled={state !== "configuring"}
           >
-            {state !== "configuring" && <Loader2 className="animate-spin" />}
+            {<Loader2 className="animate-spin" />}
             {status_text[state as keyof typeof status_text]}
           </Button>
         </CardFooter>

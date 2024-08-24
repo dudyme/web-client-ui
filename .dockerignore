@@ -2,6 +2,3 @@
 node_modules
 dist
 dist-ssr
-*.lock
-*.local
-*.*.local

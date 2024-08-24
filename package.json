@@ -27,6 +27,7 @@
     "tailwind-merge": "^2.3.0"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.8",
     "@types/audioworklet": "^0.0.55",
     "@types/node": "^20.14.5",
     "@types/react": "^18.2.66",
